@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237791075647",
+    "project_id": "foodu-84f25",
+    "storage_bucket": "foodu-84f25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237791075647:android:b610a8b2900c2494d3c78a",
+        "android_client_info": {
+          "package_name": "com.example.resturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237791075647-cs7gglefh8iegf5ok5v0ltmvi64rof1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKRmDrySyhtr3zq5T4nJWIf12QkpB3yFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237791075647-cs7gglefh8iegf5ok5v0ltmvi64rof1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
