@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Foodu</string>
-    <string name="facebook_app_id">1055807208709140</string>
-    <string name="fb_login_protocol_scheme">fb1055807208709140</string>
-    <string name="facebook_client_token">7610f0167f93b4030046bd0789eb0466</string>
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+    <string name="facebook_client_token"></string>
 </resources>
 
 
